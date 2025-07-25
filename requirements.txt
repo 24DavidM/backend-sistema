@@ -5,3 +5,4 @@ pandas
 requests
 gdown
 uvicorn
+scikit-learn
